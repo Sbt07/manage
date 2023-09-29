@@ -1,67 +1,25 @@
 # Manage landing page
 
-![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
+This repository contains the source code for a web page built with HTML and CSS. It is designed as a landing page for a fictitious product or service. Below, you'll find information about the project structure, features, and how to run it locally.
 
-## Welcome! 👋
+## Project Overview
 
-Thanks for checking out this front-end coding challenge.
+This web page is created using HTML and CSS and includes the following components:
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+- A responsive header with a navigation menu and a mobile-friendly toggle button.
+- A hero section with a headline, subheadline, and a call-to-action button.
+- A section highlighting the key features of the product or service.
+- A customer testimonial carousel.
+- A call-to-action section at the end.
 
-## The challenge
+## Features
 
-Your challenge is to build out this landing page and get it looking as close to the design as possible.
+- **Responsive Design**: The web page is designed to be responsive and adapt to different screen sizes, making it accessible on various devices.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+- **Navigation Menu**: Users can navigate through the site using the menu in the header.
 
-Your users should be able to:
+- **Hero Section**: The hero section prominently displays the main message and encourages users to take action.
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
-- See all testimonials in a horizontal slider
-- Receive an error message when the newsletter sign up `form` is submitted if:
-  - The `input` field is empty
-  - The email address is not formatted correctly
+- **Feature Highlights**: Key features of the product or service are presented in a clear and visually appealing manner.
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
-## Where to find everything
-
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
-
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
-
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
-
-You will find all the required assets in the `/images` folder. The assets are already optimized.
-
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
-
-## Building your project
-
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
-
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
-
-## Deploying your project
-
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
-
-## Create a custom `README.md`
-
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
-
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+- **Customer Testimonials**: Real customer testimonials are showcased in a carousel, adding credibility to the product or service.
